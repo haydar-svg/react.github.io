@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.143acbf1.css",
+    "main.js": "/static/js/main.9fae1131.js",
+    "static/media/animationDesignImage_1.png": "/static/media/animationDesignImage_1.8687ffa266bc02d24ea0.png",
+    "static/media/animationDesignImage_3.png": "/static/media/animationDesignImage_3.70d0ea7bd02c1ef87c7f.png",
+    "static/media/animationDesignImage_2.png": "/static/media/animationDesignImage_2.3df8d760725270238075.png",
+    "static/media/ccseLogo.png": "/static/media/ccseLogo.8379b31853430ef070bc.png",
+    "static/media/Oswald-Light.ttf": "/static/media/Oswald-Light.0db1d0c56bdf030d9f31.ttf",
+    "static/media/Oswald-Regular.ttf": "/static/media/Oswald-Regular.e815068d369177121fd8.ttf",
+    "static/media/INGENIERIE.svg": "/static/media/INGENIERIE.83047d03b32b9449ebfa4677e7fd610e.svg",
+    "static/media/GRH.svg": "/static/media/GRH.1c05547b0c87c1e7316a75ca92822743.svg",
+    "index.html": "/index.html",
+    "static/media/JURIDIQUE.svg": "/static/media/JURIDIQUE.7b1900f269da045ce33099c33fb4ae9b.svg",
+    "static/media/COACHING.svg": "/static/media/COACHING.543c561019ab9a78a77527d343f19304.svg",
+    "static/media/FORMATION.svg": "/static/media/FORMATION.d4e6d842e3eaba5b3bce31c28719139b.svg",
+    "static/media/RECOVRY.svg": "/static/media/RECOVRY.6f587777786d435db6e1f2b54cbc85ac.svg",
+    "static/media/CONSEIL.svg": "/static/media/CONSEIL.a621b39f1d2b2900225b76ea44a69095.svg",
+    "static/media/EVENTS.svg": "/static/media/EVENTS.ace6dcbe11a1f5a948f7ba1b354ba871.svg",
+    "static/media/list.svg": "/static/media/list.0eb8a1ede2bf0c75f996441cb24d9273.svg",
+    "static/media/chevron-up.svg": "/static/media/chevron-up.a89f92b0d0d74c94b21581fb7f2e40c9.svg",
+    "static/media/close.svg": "/static/media/close.c3a18ea703f70ba952f52824e5dbf550.svg",
+    "static/media/chevron.svg": "/static/media/chevron.712cdd22ccdb4f1e7ec02a5cca5f5991.svg",
+    "main.143acbf1.css.map": "/static/css/main.143acbf1.css.map",
+    "main.9fae1131.js.map": "/static/js/main.9fae1131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.143acbf1.css",
+    "static/js/main.9fae1131.js"
+  ]
+}
